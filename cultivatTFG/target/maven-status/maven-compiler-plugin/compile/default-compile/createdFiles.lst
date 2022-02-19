@@ -1,0 +1,10 @@
+com\cultivattfg\bd\classesBD\DetalleBD.class
+com\cultivattfg\bd\classesBD\ProductosBD.class
+com\cultivattfg\bd\classesBD\PedidosBD.class
+com\cultivattfg\bd\classesBD\Usuario.class
+com\cultivattfg\JAXRSConfiguration.class
+com\cultivattfg\resources\JavaEE8Resource.class
+com\cultivattfg\bd\classesBD\ProductoresBD.class
+com\cultivattfg\bd\classesBD\CategoriasBD.class
+com\cultivattfg\bd\AccesoBD.class
+com\cultivattfg\bd\CerrarSesion.class
